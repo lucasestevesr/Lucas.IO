@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\bin\Debug\net5.0\LucasOO.exe
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\bin\Debug\net5.0\LucasOO.deps.json
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\bin\Debug\net5.0\LucasOO.runtimeconfig.json
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\bin\Debug\net5.0\LucasOO.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\bin\Debug\net5.0\LucasOO.dll
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\bin\Debug\net5.0\ref\LucasOO.dll
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\bin\Debug\net5.0\LucasOO.pdb
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\obj\Debug\net5.0\LucasOO.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\obj\Debug\net5.0\LucasOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\obj\Debug\net5.0\LucasOO.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\obj\Debug\net5.0\LucasOO.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\obj\Debug\net5.0\LucasOO.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\obj\Debug\net5.0\LucasOO.dll
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\obj\Debug\net5.0\ref\LucasOO.dll
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\obj\Debug\net5.0\LucasOO.pdb
+C:\Users\Lucas\Desktop\Dev\Balta.IO\Fundamentos da Orientação a Objetos\LucasOO\obj\Debug\net5.0\LucasOO.genruntimeconfig.cache
