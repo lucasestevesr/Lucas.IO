@@ -1,0 +1,15 @@
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\bin\Debug\net6.0\EditorHTML.exe
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\bin\Debug\net6.0\EditorHTML.deps.json
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\bin\Debug\net6.0\EditorHTML.runtimeconfig.json
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\bin\Debug\net6.0\EditorHTML.dll
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\bin\Debug\net6.0\ref\EditorHTML.dll
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\bin\Debug\net6.0\EditorHTML.pdb
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\obj\Debug\net6.0\EditorHTML.csproj.AssemblyReference.cache
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\obj\Debug\net6.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\obj\Debug\net6.0\EditorHTML.AssemblyInfoInputs.cache
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\obj\Debug\net6.0\EditorHTML.AssemblyInfo.cs
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\obj\Debug\net6.0\EditorHTML.csproj.CoreCompileInputs.cache
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\obj\Debug\net6.0\EditorHTML.dll
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\obj\Debug\net6.0\ref\EditorHTML.dll
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\obj\Debug\net6.0\EditorHTML.pdb
+C:\Users\6113873\OneDrive - Thomson Reuters Incorporated\Desktop\DevLucas\Balta.IO\.NET\EditorHTML\obj\Debug\net6.0\EditorHTML.genruntimeconfig.cache
